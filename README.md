@@ -10,11 +10,13 @@ To write a python program to find the inverse of a matrix
 ### Step 3: 
 ### Step 4: 
 
-## Program:<img width="558" height="198" alt="{9E223951-0BF6-4A7C-B717-BFC3ABDF7D26}" src="https://github.com/user-attachments/assets/bd8705b5-fd41-40e0-b63b-adb1a80b7ec1" />
+## Program:<img width="558" height="186" alt="{4C3FD55D-0F7C-41E3-80A6-5660E538FF42}" src="https://github.com/user-attachments/assets/453cabc1-d7e3-4955-9ad9-e6dfb77c11d1" />
+
 developed by:Carlton Maximus A
 ref no:25006709
 
-## Output:<img width="424" height="208" alt="{BBD7E755-50DA-4808-B436-DA8815901BE1}" src="https://github.com/user-attachments/assets/36cede9c-f272-4b70-b2e2-a8cf2a7ecf11" />
+## Output:<img width="885" height="219" alt="{5EF340E3-5D33-4D6B-8384-3188E8ADCE54}" src="https://github.com/user-attachments/assets/db91df9d-2a45-4aeb-8571-a649c8ab134e" />
+
 
 ## Result:
 Thus the inverse of given matrix is successfully solved using python program
